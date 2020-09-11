@@ -5,8 +5,6 @@ PPE 3 : sécurisation des clés USB
 
 Exposé pratique sur la thématique : "sécurisation des clés USB"
 
--> Oral : 5 minutes par personne.
-
 
 Remise :
 ----------------
