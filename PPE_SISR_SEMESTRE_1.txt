@@ -13,7 +13,7 @@ Remise :
   Convention de nommage : NOM1_NOM2_PPE1_DIAPO.pdf; 
 - Rapport écrits : 
   - Document écrit structuré 
-    (titres, sommaires, bibliographies, images sourcées, ...) ; 
+    (titres, sommaire, bibliographie, images sourcées, ...) ; 
   - Entre 5 et 10 pages ;
   - Convention de nommage : NOM1_NOM2_PPE1_RAPPORT.pdf
 
