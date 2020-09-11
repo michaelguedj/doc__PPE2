@@ -11,7 +11,7 @@ Remise :
 ----------------
 - Diapos (slides) :
   Convention de nommage : NOM1_NOM2_PPE1_DIAPO.pdf; 
-- Rapports écrits : 
+- Rapport écrits : 
   - Document écrit structuré 
     (titres, sommaires, bibliographies, images sourcées, ...) ; 
   - Entre 5 et 10 pages ;
