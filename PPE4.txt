@@ -2,8 +2,9 @@
 ============================================
 PPE 4 : situation pratique
 ============================================
+-- Coefficient 2.
 
--> Oral : 5 minutes par personne.
+-> Oral : 7,5 minutes par personne.
 
 Situation pratique
 - reseaux de type PME ;
