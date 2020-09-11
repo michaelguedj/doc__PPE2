@@ -3,3 +3,19 @@
 PPE 4 : situation pratique
 ============================================
 
+-> Oral : 5 minutes par personne.
+
+Situation pratique
+- reseaux de type PME ;
+- mettant en jeu au moins 2 services ;
+- utilisation de Packet Tracer et de machines virtuelles.
+
+Remise :
+---------------- 
+- Rapport écrit : 
+  - Document écrit structuré 
+    (titres, sommaire, bibliographie, images sourcées, ...) ; 
+  - Entre 10 et 15 pages ;
+  - Convention de nommage : NOM1_NOM2_PPE4_RAPPORT.pdf
+
+- Date Limite : ??/??/2021 à 0h00. 
