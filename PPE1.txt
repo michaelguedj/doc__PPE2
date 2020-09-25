@@ -16,4 +16,4 @@ Remise :
   - Entre 5 et 10 pages ;
   - Convention de nommage : NOM1_NOM2_PPE1_RAPPORT.pdf
 
-- Date Limite : 01/10/2020 à 0h00.
+- Date Limite : 31/10/2020 à 0h00.
