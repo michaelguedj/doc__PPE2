@@ -4,5 +4,7 @@
 PPE 2 : site Web HTML/CSS
 ============================================
 -- Coefficient 1.
+-- Convention de nommage du dossier source : NOM1_PPE2.
+
 
 - Date Limite : 29/01/2021 à 0h00.
