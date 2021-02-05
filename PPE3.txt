@@ -1,7 +1,7 @@
 ================================================================
 PPE 3 : sécurisation des clés USB
 ================================================================
--- Coefficient 1.
+-- Coefficient 2.
 
 Exposé pratique sur la thématique : "sécurisation des clés USB"
 
