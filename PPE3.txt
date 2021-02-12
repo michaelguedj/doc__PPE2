@@ -3,13 +3,13 @@ PPE 3 : sécurisation des clés USB
 ================================================================
 -- Coefficient 2.
 
-Exposé pratique sur la thématique : "sécurisation des clés USB"
+- Exposé pratique sur la thématique de la sécurité.
 
 
 Remise :
 ----------------
 - Rapport écrit :
-  - tutoriel avec capture d'écran ;
+  - Tutoriel avec capture d'écran ;
   - Convention de nommage : NOM1_NOM2_PPE3_RAPPORT.pdf
 
 - Date Limite : ??/??/2021 à 0h00.
