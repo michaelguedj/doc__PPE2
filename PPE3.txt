@@ -3,13 +3,14 @@ PPE 3 : SECURITE
 ================================================================
 -- Coefficient 2.
 
-- Exposé pratique sur la thématique de la sécurité.
+- Exposé la thématique de la sécurité.
 
 
 Remise :
 ----------------
 - Rapport écrit :
-  - Tutoriel avec capture d'écran ;
+  - Rapport structuré : introduction; conclusion, sections, sommaire, sources.
+  - Problématique "pratique" souhaitable.
   - Convention de nommage : NOM1_NOM2_PPE3_RAPPORT.pdf
 
 - Date Limite : 15/04/2021 à 0h00.
