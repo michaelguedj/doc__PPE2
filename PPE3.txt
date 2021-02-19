@@ -3,7 +3,7 @@ PPE 3 : SECURITE
 ================================================================
 -- Coefficient 2.
 
-- Exposé la thématique de la sécurité.
+- Exposé sur la thématique de la sécurité.
 
 
 Remise :
