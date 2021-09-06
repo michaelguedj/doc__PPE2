@@ -4,6 +4,7 @@ PPE 1 : Exposé sur sujet libre
 ================================
 
 -> Oral : 5 minutes par personne.
+  avec support diapo
 
 Remise :
 ================================
