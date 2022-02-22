@@ -9,6 +9,6 @@ Remise :
 - Rapport écrit :
   - Rapport structuré : introduction; conclusion, sections, sommaire, sources.
   - Problématique "pratique" souhaitable.
-  - Convention de nommage : NOM1_NOM2_PPE3_RAPPORT.pdf
+  - Convention de nommage : NOM1_NOM2_PPE2_RAPPORT.pdf
 
 - Date Limite : 15/05/2021 à 0h00.
